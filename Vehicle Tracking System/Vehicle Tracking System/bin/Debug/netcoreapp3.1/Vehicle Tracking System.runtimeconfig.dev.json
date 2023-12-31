@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ABBA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ABBA\\.nuget\\packages"
+    ]
+  }
+}
